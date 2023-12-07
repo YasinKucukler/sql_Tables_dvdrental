@@ -1,1 +1,1 @@
-This file used like Postgre SQL workshop
+This repository used like Postgre SQL workshop
